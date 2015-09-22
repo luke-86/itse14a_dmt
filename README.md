@@ -1,2 +1,2 @@
 # itse14a_dmt
-Repo for DMT exam
+Dies ist ein Test-Repo fuer die DMT-Pruefung
